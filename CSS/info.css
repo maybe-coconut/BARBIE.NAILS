@@ -59,7 +59,8 @@ body {
     border-radius: 20px;
     flex-direction: column;
     background-image: url(https://sun9-43.userapi.com/1gCW50kAo_kStsg0E-W5ywN38VogGXAbKDxFqg/7GhPOiLT8cs.jpg);
-    background-size: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
 
 
 }

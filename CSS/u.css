@@ -58,10 +58,10 @@ body {
     display: flex;
     justify-content: space-around;
     background-color: #E6E6FA;
-    border-radius: 5px;
     width: 100%;
     font-size: 21px;
     font-family: Impact, fantasy, sans-serif;
+    padding-bottom: 10px;
 }
 
 .photo {
@@ -129,4 +129,14 @@ body {
 .price a:hover {
     background-color: #DDA0DD;
     text-decoration: dotted;
+}
+
+.home_body {
+    margin: 30px;
+    background-color: white;
+    border: 3px solid black;
+    padding-left: 10px;
+    border-radius: 7px;
+
+
 }

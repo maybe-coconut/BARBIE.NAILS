@@ -30,6 +30,7 @@ body {
     width: 100%;
     font-size: 21px;
     font-family: Impact, fantasy, sans-serif;
+    padding-bottom: 10px;
 }
 
 .address a{

@@ -109,16 +109,6 @@ body {
 }
 
 
-.after_info{
-    display: flex;
-    justify-content: flex-start;
-    margin: 20px;
-    margin-left: 20%;
-    font-size: 23px;
-
-
-}
-
 .form {
     display: flex;
     justify-content: center;
@@ -139,4 +129,8 @@ body {
 .form div{
     margin: 20px;
     size: 400px;
+}
+
+.checkbox {
+    font-size: 20px;
 }

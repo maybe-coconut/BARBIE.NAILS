@@ -130,11 +130,16 @@ body {
 }
 
 .home_body {
-    margin: 30px;
+    margin: 30%;
+    margin-top: 30px;
+    margin-bottom: 20px;
     background-color: white;
     border: 3px solid black;
     padding-left: 10px;
     border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    
 
 
 }

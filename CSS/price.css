@@ -106,3 +106,10 @@ body {
     background-color: #DDA0DD;
     text-decoration: dotted;
 }
+
+.img_price {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}

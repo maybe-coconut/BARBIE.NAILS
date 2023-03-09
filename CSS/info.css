@@ -115,6 +115,7 @@ body {
     justify-content: center;
     margin-top: 50px;
     margin-left: 20%;
+    margin-right: 20%;
     width: 47%;
     background-color: #E6E6FA;
     padding: 75px;
@@ -134,4 +135,16 @@ body {
 
 .checkbox {
     font-size: 20px;
+}
+
+.text1 {
+    display: flex;
+    justify-content: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 30px;
+    padding: 5px;
+    border-radius: 15px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
